@@ -1,189 +1,200 @@
-Aquí tienes un **README extendido y profesional** para el proyecto **Eco-Sync**.
-
-Este documento está diseñado para servir como la "Biblia del Proyecto" para tu grupo. Sigue rigurosamente la estructura de la tarea original (*Diseño -> Guion -> Video*) y expande la información para que tengan todo listo para la grabación final.
 
 ---
 
-# 📄 PROYECTO: IT DEVICES IN THE FUTURE
-## Nombre del Dispositivo: **Eco-Sync (Home Energy Reactivity Hub)**
+# 🌍 Project: IT Devices in the Future
 
-**Integrantes del Grupo:**
-1. [Nombre del Estudiante 1]
-2. [Nombre del Estudiante 2]
-3. [Nombre del Estudiante 3]
-4. [Nombre del Estudiante 4]
+**Device Name:**  
+**Eco-Sync (Home Energy Reactivity Hub)**
 
----
-
-## 📅 FASE 1: DISEÑO Y ESPECIFICACIONES (Design Phase)
-*Objetivo: Definir un dispositivo inexistente con especificaciones técnicas claras.*
-
-### 1. Concepto General
-**Eco-Sync** es un concentrador (*hub*) de gestión energética inteligente que se instala en el cuadro eléctrico del hogar. A diferencia de los monitores actuales que solo "observan", Eco-Sync **actúa**. Utiliza Inteligencia Artificial para micro-gestionar el flujo eléctrico, apagando, encendiendo o pausando circuitos milisegundo a milisegundo para aprovechar las tarifas más bajas y prevenir averías.
-
-### 2. Especificaciones Técnicas (Technical Specs)
-
-| Componente | Detalle Técnico | Función Específica |
-| :--- | :--- | :--- |
-| **Procesador Central** | **QAI-Core (Quantum AI Logic)** | Procesador dedicado capaz de analizar 50.000 puntos de datos por segundo (precios de mercado, clima, hábitos de usuario) sin latencia. |
-| **Sensores** | **Nano-Sensores de Efecto Hall** | Instalados en cada disyuntor. Miden la "firma eléctrica" de cada aparato para identificar cuál está encendido y su estado de salud. |
-| **Actuadores** | **Micro-Relés de Estado Sólido (SSR)** | Permiten el corte o reanudación del flujo eléctrico en 0.01 segundos, sin ruido y sin desgaste mecánico. |
-| **Conectividad** | **6G + Red Mesh LPNM** | Conexión directa a la red global de energía para subastas de precio en tiempo real y red local de baja potencia para hablar con electrodomésticos. |
-| **Alimentación** | **Celdas de Grafeno de Respaldo** | Batería interna de 48h de duración para mantener el sistema operativo incluso durante apagones generales. |
-| **Interfaz** | **Proyección Holográfica de Pared** | No necesita pantalla física; proyecta los datos de consumo y alertas directamente sobre la puerta del cuadro eléctrico. |
-
-### 3. Características Clave (Key Features)
-
-* **⚡ Smart-Shifting (Desplazamiento Inteligente):** Si la lavadora va a calentar el agua justo cuando la electricidad sube de precio, Eco-Sync pausa el ciclo 5 minutos hasta que el precio baja, sin que el usuario lo note.
-* **🩺 Tech-Doctor (Mantenimiento Predictivo):** Detecta patrones de fallo. *Ejemplo:* "El motor de su aire acondicionado está consumiendo un 15% más de energía al arrancar. Posible fallo de condensador en 2 semanas. ¿Contactar técnico?"
-* **🔋 Grid-Balancing (Balanceo de Red):** Permite vender la energía sobrante de tus paneles solares automáticamente al mejor postor del mercado en ese instante.
+**Group Members:**
+1. [Alexandre]
+2. [Jorge]
+3. [Andrea]
+4. [Samuel]
 
 ---
 
-## 📝 FASE 2: PREPARACIÓN DEL GUION (Script Preparation)
-*Objetivo: Estructurar la presentación para entregar antes del 11 de diciembre.*
+## 📐 Phase 1: Design & Specifications (Design Phase)
+*Objective: Define a currently nonexistent device with clear technical specifications.*
 
-Este guion está diseñado para ser dinámico y cubrir todos los puntos de evaluación.
+### 1. General Concept
+**Eco-Sync** is an intelligent energy management hub installed directly in the home’s electrical panel. Unlike current monitors that merely *observe*, Eco-Sync *acts*. It leverages Artificial Intelligence to micro-manage electricity flow—turning circuits on, off, or pausing them millisecond-by-millisecond—to capitalize on low-price energy windows and prevent appliance failures.
 
-### Estructura del Guion y Roles
+### 2. Technical Specifications
 
-#### **Rol 1: El Visionario (Intro & "The Why")**
-* **Quién:** [Nombre Estudiante 1]
-* **Objetivo:** Enganchar a la audiencia y presentar el problema.
-* **Líneas clave:**
-    * "¿Sabían que el 30% de la energía doméstica se desperdicia o se paga a sobreprecio?"
-    * "Hoy presentamos no un gadget, sino el cerebro de su futuro hogar."
-    * "Esto es **Eco-Sync**: Energía inteligente, para un planeta que no puede esperar."
+| Component            | Technical Detail                                     | Specific Function |
+|----------------------|------------------------------------------------------|-------------------|
+| **Central Processor** | **QAI-Core (Quantum AI Logic)**                      | Dedicated processor analyzing 50,000 data points per second (market prices, weather, user habits) with zero latency. |
+| **Sensors**          | **Hall-Effect Nano-Sensors**                         | Installed at each circuit breaker. Measure each appliance’s electrical “signature” to identify which device is active and assess its health status. |
+| **Actuators**        | **Solid-State Micro-Relays (SSR)**                  | Enable power cutoff or resumption in 0.01 seconds—silent and without mechanical wear. |
+| **Connectivity**     | **6G + LPNM Mesh Network**                           | Direct connection to the global energy grid for real-time bidding, plus a low-power local mesh for communication with appliances. *(LPNM = Low-Power Neural Mesh)* |
+| **Power Supply**     | **Graphene Backup Cells**                            | Internal 48-hour battery ensures continuous operation during citywide blackouts. |
+| **Interface**        | **Wall-Projected Hologram**                          | No physical screen needed—projects real-time consumption data and alerts directly onto the electrical panel door. |
 
-#### **Rol 2: El Ingeniero (Specs & "The How")**
-* **Quién:** [Nombre Estudiante 2]
-* **Objetivo:** Dar credibilidad técnica (usar términos complejos).
-* **Líneas clave:**
-    * "El secreto está en nuestro chip **QAI-Core**. No adivina, calcula."
-    * "Utilizamos **Micro-Relés de Estado Sólido**. Esto nos permite cortar la energía de un dispositivo ineficiente en milisegundos."
-    * "Todo conectado mediante una red 6G segura que nunca duerme."
+### 3. Key Features
 
-#### **Rol 3: El Demostrador (Demo & "The Wow")**
-* **Quién:** [Nombre Estudiante 3]
-* **Objetivo:** Mostrar un caso de uso real (Acting).
-* **Acción:** *Sostiene el "dispositivo" (prop) o muestra una tablet simulando la app.*
-* **Líneas clave:**
-    * "Miren esto. Son las 8 PM, la hora más cara. Eco-Sync detecta que he puesto a cargar mi coche."
-    * *(Simula una notificación)* "¡Lo ha pausado automáticamente! Y lo reactivará a las 2 AM cuando la energía es casi gratis. Me acaba de ahorrar 50 euros este mes sin que yo mueva un dedo."
+* **⚡ Smart-Shifting:**  
+  If your washing machine is about to heat water just as electricity prices spike, Eco-Sync pauses the cycle for 5 minutes—resuming only when rates drop—without user intervention.
 
-#### **Rol 4: El Estratega (Futuro & Conclusión)**
-* **Quién:** [Nombre Estudiante 4]
-* **Objetivo:** Cerrar con impacto y mencionar características extra.
-* **Líneas clave:**
-    * "Y no es solo dinero. Eco-Sync detecta fallos en tus aparatos antes de que se rompan."
-    * "Imagina un mundo donde tu casa cuida de sí misma y del medio ambiente."
-    * "Eco-Sync: Tu energía, bajo control."
+* **🛠️ Tech-Doctor (Predictive Maintenance):**  
+  Detects failure patterns.  
+  *Example:*  
+  _“Your air conditioner’s motor is using 15% more startup power than normal. Likely capacitor failure in ~2 weeks. 🛠️ Call technician?”_
+
+* **⚖️ Grid-Balancing:**  
+  Automatically sells surplus solar energy to the highest real-time bidder in the energy market.
 
 ---
 
-## 🎥 FASE 3: GRABACIÓN DEL VIDEO (Video Recording)
-*Objetivo: Grabar la presentación final para exhibir el 18 de diciembre.*
+## 🎬 Phase 2: Script Preparation
+*Objective: Structure the presentation to be delivered by December 11.*
 
-### Lista de Verificación para la Grabación (Checklist)
+This script is designed to be dynamic and cover all grading criteria.
 
-1.  **Escenografía:**
-    * [ ] Fondo neutro (una pared blanca o una pizarra limpia).
-    * [ ] Buena iluminación (luz natural de frente o lámparas, nunca a contraluz).
-2.  **Props (Atrezzo):**
-    * [ ] **El Dispositivo:** Usar una caja pequeña pintada de blanco/gris con un LED o una pegatina del logo "Eco-Sync".
-    * [ ] **La App:** Un integrante puede sostener una tablet/móvil mostrando una imagen estática con gráficos verdes (batería/ahorro).
-3.  **Audio:**
-    * [ ] Grabar en un lugar silencioso.
-    * [ ] Hablar alto y claro, proyectando la voz hacia la cámara.
-4.  **Edición (Opcional pero recomendada):**
-    * [ ] Añadir subtítulos simples para las especificaciones técnicas (ej: cuando el Ingeniero diga "QAI-Core", que aparezca el texto en pantalla).
-    * [ ] Añadir una imagen de "Portada" al inicio con el nombre del proyecto.
+### Script Structure & Roles
 
----
+#### **Role 1: The Visionary (Intro & “The Why”)**
+* **Who:** [Student 1]
+* **Goal:** Hook the audience and introduce the problem.
+* **Key Lines:**
+    - _“Did you know 30% of household energy is wasted or overpaid?”_
+    - _“Today, we’re not presenting a gadget—we’re unveiling the brain of your future home.”_
+    - _“This is **Eco-Sync**: Intelligent energy, for a planet that can’t wait.”_
 
-## 1️⃣ FASE DE DISEÑO: EL CONCEPTO
-*Resumen para entender qué estáis vendiendo.*
+#### **Role 2: The Engineer (Specs & “The How”)**
+* **Who:** [Student 2]
+* **Goal:** Establish technical credibility (use precise, advanced terminology).
+* **Key Lines:**
+    - _“The secret lies in our **QAI-Core** chip. It doesn’t guess—it calculates.”_
+    - _“Thanks to **Solid-State Micro-Relays**, we can cut power to an inefficient device in milliseconds.”_
+    - _“All connected via secure, always-on 6G.”_
 
-**Eco-Sync** es un gestor energético proactivo. Se instala en el cuadro eléctrico de casa y utiliza Inteligencia Artificial para controlar cada enchufe y electrodoméstico. Su objetivo es **cero desperdicio**: compra energía cuando es barata, vende excedentes solares cuando es cara y desconecta aparatos que están funcionando mal antes de que se rompan.
+#### **Role 3: The Demonstrator (Demo & “The Wow”)**
+* **Who:** [Student 3]
+* **Goal:** Deliver a vivid, real-world use case (via acting).
+* **Action:** Hold the “device” (prop) or a tablet simulating the app interface.
+* **Key Lines:**
+    - _“Look: it’s 8 PM—the most expensive hour. Eco-Sync detects I’ve started charging my EV.”_
+    - *(Simulate phone notification)*  
+      _“It **automatically paused** charging! And will resume at 2 AM, when energy is nearly free. It just saved me €50 this month—without me lifting a finger.”_
 
-### Especificaciones Técnicas (Cheat Sheet)
-* **Procesador:** QAI-Core (Quantum AI Logic).
-* **Actuadores:** Micro-Relés SSR (Solid State Relays) para cortes de energía en 0.01s.
-* **Conectividad:** 6G y Protocolo LPNM (Low-Power Neural Mesh).
-* **Sensores:** Sensores de Efecto Hall para lectura de "firma eléctrica".
-
----
-
-## 2️⃣ EL GUION DE PRESENTACIÓN (VIDEO SCRIPT)
-*Instrucciones: Este es el texto exacto que debéis decir en el video. Las partes en cursiva y entre corchetes `[Acción]` son indicaciones de lo que debéis hacer.*
-
-### **INTRODUCCIÓN: El Problema y la Visión**
-**(Duración aprox: 45 seg)**
-
-**PERSONA 1 (El Visionario):**
-*(De pie en el centro, tono serio y profesional. Mira directamente a la cámara).*
-
-> "Buenos días. Quiero empezar con una pregunta: ¿Sabían que casi el 30% de la energía que pagamos en nuestros hogares se desperdicia completamente?
->
-> Pagamos por luces olvidadas, por electrodomésticos ineficientes y por tarifas horarias abusivas que nadie entiende. La tecnología actual solo nos permite *mirar* el consumo, pero no *hacer* nada al respecto.
->
-> Hasta hoy.
->
-> Nuestro equipo ha diseñado la solución definitiva. No es una app, y no es un simple medidor. Es el cerebro del futuro sostenible.
->
-> Les presentamos: **Eco-Sync**."
+#### **Role 4: The Strategist (Future & Conclusion)**
+* **Who:** [Student 4]
+* **Goal:** End with impact; mention extra features.
+* **Key Lines:**
+    - _“It’s not just about money. Eco-Sync spots appliance failures before they happen.”_
+    - _“Imagine a world where your home takes care of itself—and the planet.”_
+    - _“**Eco-Sync**: Your energy, under control.”_
 
 ---
 
-### **DESARROLLO TÉCNICO: ¿Cómo funciona?**
-**(Duración aprox: 60 seg)**
+## 📹 Phase 3: Video Recording
+*Objective: Record final presentation for showcase on December 18.*
 
-**PERSONA 2 (El Ingeniero):**
-*(Aparece junto a una pizarra o mostrando el prototipo físico - una caja blanca). Tono técnico y entusiasta.*
+### Recording Checklist
 
-> "Gracias. Para crear Eco-Sync, tuvimos que reinventar la gestión eléctrica doméstica.
->
-> El corazón de nuestro dispositivo es el **QAI-Core** *(señala el dispositivo)*. Es un procesador de Inteligencia Artificial Cuántica capaz de analizar el mercado eléctrico global y el clima local en tiempo real.
->
-> Pero lo que nos hace únicos son los **Micro-Relés de Estado Sólido (SSR)**.
->
-> A diferencia de los sistemas antiguos, Eco-Sync puede cortar o activar la energía de un enchufe específico en 0,01 segundos. Todo esto conectado mediante una red **6G** segura y una malla neuronal de baja potencia que habla con tus electrodomésticos sin latencia. Es ingeniería de precisión para tu hogar."
+1. **Set Design:**
+    - [ ] Neutral background (plain white wall or clean whiteboard).
+    - [ ] Good lighting (natural light or lamps—never backlit).
 
----
+2. **Props:**
+    - [ ] **The Device:** Small white/gray box with an LED or “Eco-Sync” logo sticker.
+    - [ ] **The App:** One member holds a tablet/phone showing a static mockup with green graphs (battery/savings).
 
-### **DEMOSTRACIÓN: Caso de Uso Real**
-**(Duración aprox: 90 seg)**
+3. **Audio:**
+    - [ ] Record in a quiet room.
+    - [ ] Speak clearly and project toward the camera.
 
-**PERSONA 3 (El Demostrador):**
-*(Sostiene un teléfono móvil o tablet simulando la interfaz de la App. Actúa con naturalidad).*
-
-> "Suena complejo, ¿verdad? Pero para el usuario, es mágico. Dejadme enseñaros cómo funciona.
->
-> *(Mira al móvil)*
-> Imaginad que son las 8 de la tarde. Es la hora punta, la electricidad es carísima. Yo acabo de conectar mi coche eléctrico y he puesto la lavadora sin pensar.
->
-> En un sistema normal, mi factura se dispararía. Pero mirad lo que hace Eco-Sync.
->
-> *(Muestra la pantalla a la cámara)*
-> La app me envía una notificación: *'Pico de precio detectado'*. Automáticamente, Eco-Sync ha pausado la carga del coche y ha retrasado el ciclo de la lavadora 15 minutos.
->
-> Yo no he tenido que hacer nada. El sistema esperará a que el precio baje y reactivará todo solo. Resultado: Ahorro máximo, esfuerzo cero."
+4. **Editing (Optional but Recommended):**
+    - [ ] Add simple subtitles for technical terms (e.g., display “QAI-Core” on screen when mentioned).
+    - [ ] Include a title card at the start with the project name.
 
 ---
 
-### **CONCLUSIÓN: Futuro y Cierre**
-**(Duración aprox: 45 seg)**
+## 🧠 Phase 4: Design Summary — The Core Concept
+*Quick overview of what you’re pitching.*
 
-**PERSONA 4 (El Estratega):**
-*(Se une al grupo o toma el plano central. Tono inspirador).*
+**Eco-Sync** is a proactive energy manager. Installed in your home’s electrical panel, it uses AI to control every outlet and appliance. Its mission: **zero waste**—buying energy when cheap, selling solar surplus when prices peak, and disconnecting malfunctioning devices before they fail.
 
-> "Exacto. Pero el ahorro es solo el principio. Eco-Sync tiene una característica más: el **Mantenimiento Predictivo**.
+### Technical Cheat Sheet
+- **Processor:** QAI-Core (Quantum AI Logic)
+- **Actuators:** Solid-State Micro-Relays (SSR), 0.01s response
+- **Connectivity:** 6G + LPNM (Low-Power Neural Mesh)
+- **Sensors:** Hall-Effect Nano-Sensors for “electrical signature” analysis
+
+---
+
+## 📜 Presentation Script (Exact Video Dialogue)
+
+*Instructions: Deliver these lines verbatim. Text in italics and brackets `[Action]` are stage directions.*
+
+### **INTRODUCTION: The Problem & The Vision**
+*(Duration: ~45 sec)*
+
+**PERSON 1 (The Visionary):**  
+*[Standing center, serious/professional tone. Look directly into camera.]*
+
+> _“Good morning. Let me begin with a question: Did you know nearly 30% of the energy we pay for in our homes is completely wasted?_
 >
-> Gracias a sus sensores, puede detectar si el motor de vuestra nevera está fallando *semanas antes* de que se rompa, analizando su huella eléctrica. Es como tener un técnico vigilando vuestra casa 24 horas al día.
+> _We pay for forgotten lights, inefficient appliances, and confusing, peak-time tariffs. Today’s tech only lets us **watch** our consumption—but not **act** on it._
 >
-> Compañeros, el futuro no es solo consumir energía, es dialogar con ella. Con **Eco-Sync**, ahorramos dinero, protegemos nuestros aparatos y ayudamos al planeta.
+> _Until now._
 >
-> Eco-Sync: Tu energía, bajo control. Muchas gracias."
+> _Our team has designed the definitive solution. It’s not an app. It’s not just a meter. It’s the brain of the sustainable future._
+>
+> _We present: **Eco-Sync**.”_
 
+---
 
+### **TECHNICAL EXPLANATION: How It Works**
+*(Duration: ~60 sec)*
+
+**PERSON 2 (The Engineer):**  
+*[Next to whiteboard or holding prototype (white box). Technical, enthusiastic tone.]*
+
+> _“Thank you. To build Eco-Sync, we had to reinvent home energy management._
+>
+> _At its heart is the **QAI-Core**—*[gestures to device]*—a quantum AI processor that analyzes the global energy market and local weather in real time._
+>
+> _But what makes us unique are the **Solid-State Micro-Relays (SSR)**._
+>
+> _Unlike legacy systems, Eco-Sync can cut or restore power to any circuit in 0.01 seconds. All connected via secure **6G** and an ultra-low-latency neural mesh that talks to your appliances. It’s precision engineering—for your home.”_
+
+---
+
+### **DEMONSTRATION: Real-World Use Case**
+*(Duration: ~90 sec)*
+
+**PERSON 3 (The Demonstrator):**  
+*[Holding phone/tablet simulating the app interface. Natural, conversational tone.]*
+
+> _“Sounds complex, right? But for users, it’s magic. Let me show you how._
+>
+> _*[Looking at phone]* Imagine it’s 8 PM—peak hour; electricity is at its most expensive. I just plugged in my EV and started the washer, without thinking._
+>
+> _In a normal home, my bill would skyrocket. But watch what Eco-Sync does._
+>
+> _*[Show screen to camera]* The app alerts me: *‘Price peak detected.’* Automatically, Eco-Sync pauses the EV charge and delays the washer by 15 minutes._
+>
+> _I didn’t do anything. It waited for rates to drop—then resumed everything, seamlessly. Result? Maximum savings. Zero effort.”_
+
+---
+
+### **CONCLUSION: The Future & Closing**
+*(Duration: ~45 sec)*
+
+**PERSON 4 (The Strategist):**  
+*[Steps forward. Inspirational tone.]*
+
+> _“Exactly. But savings are just the beginning. Eco-Sync also offers **Predictive Maintenance**._
+>
+> _Its sensors can detect if your fridge’s motor is failing—**weeks in advance**—by analyzing its electrical fingerprint. It’s like having a technician guarding your home, 24/7._
+>
+> _Friends, the future isn’t just about consuming energy—it’s about dialoguing with it. With **Eco-Sync**, we save money, protect our appliances, and help the planet._
+>
+> _**Eco-Sync**: Your energy, under control._
+>
+> _Thank you.”_
+
+--- 
 
