@@ -1,6 +1,3 @@
-Aquí tienes un **README extendido y profesional** para el proyecto **Eco-Sync**.
-
-Este documento está diseñado para servir como la "Biblia del Proyecto" para tu grupo. Sigue rigurosamente la estructura de la tarea original (*Diseño -> Guion -> Video*) y expande la información para que tengan todo listo para la grabación final.
 
 ---
 
@@ -8,10 +5,10 @@ Este documento está diseñado para servir como la "Biblia del Proyecto" para tu
 ## Nombre del Dispositivo: **Eco-Sync (Home Energy Reactivity Hub)**
 
 **Integrantes del Grupo:**
-1. [Nombre del Estudiante 1]
-2. [Nombre del Estudiante 2]
-3. [Nombre del Estudiante 3]
-4. [Nombre del Estudiante 4]
+1. [Alexandre]
+2. [Jorge]
+3. [Andrea]
+4. [Samuel]
 
 ---
 
