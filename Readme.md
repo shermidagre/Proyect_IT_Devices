@@ -154,6 +154,8 @@ This script is designed to be dynamic and cover all grading criteria.
 
 > _“Thank you. To build Eco-Sync, we had to reinvent home energy management._
 >
+> _**Eco-Sync** is an intelligent energy management hub installed directly in the home’s electrical panel. Unlike current monitors that merely *observe*, Eco-Sync *acts*. It leverages Artificial Intelligence to micro-manage electricity flow—turning circuits on, off, or pausing them millisecond-by-millisecond—to capitalize on low-price energy windows and prevent appliance failures.
+> 
 > _At its heart is the **QAI-Core**—*[gestures to device]*—a quantum AI processor that analyzes the global energy market and local weather in real time._
 >
 > _But what makes us unique are the **Solid-State Micro-Relays (SSR)**._
